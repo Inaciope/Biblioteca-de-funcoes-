@@ -1,5 +1,5 @@
 # Biblioteca
-Funções para achar a área de determinadas formas
+Funções para achar a área de formas bidimensionais
 
 ## Descrição
 
