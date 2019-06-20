@@ -15,7 +15,7 @@ Após realizar o download do arquivo ´p.js´ adicione-o ao seu documento HTML:
 ___________________________________________________________________________________________________________________
 ## Funções
 
-### Divisaopordois()
+# Exemplo: Divisaopordois()
 
 Realiza a operação matemática de divisão.
 Troque '?' pelo número desejado
