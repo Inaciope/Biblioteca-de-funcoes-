@@ -36,7 +36,7 @@ console.log(Divisaopordois( ? = 4 )); // 2
 
 - Pedro Inácio
 - Marielle
-- Gabryelli
+- Gabrielly
 - Gabriela
 - Mariana
 - Carolyne
