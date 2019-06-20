@@ -17,7 +17,7 @@ ________________________________________________________________________________
 ### Divisaopordois()
 
 Realiza a operação matemática de divisão.
-Troque '!' pelo número desejado
+Troque '?' pelo número desejado
 
 
 Exemplo:
@@ -27,7 +27,7 @@ function Divisaopordois(numero)
 {
   return numero / 2
 }
-console.log(Divisaopordois( ! = 4 )); // 2
+console.log(Divisaopordois( ? = 4 )); // 2
 
 ```
 
